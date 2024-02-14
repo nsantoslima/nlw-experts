@@ -1,7 +1,7 @@
 # nlw-experts
 Aprendendo sobre HTML, CSS e Java Script
 
-HTMLlll
+HTML
 CSS
 JavaScript
 GitHub
